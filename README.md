@@ -1,4 +1,4 @@
-# Infostealer logs parser
+# Infostealer Logs Parser
 
 Information stealers are malwares that steal sensitive data, aka **logs**, to be sold in forums or shared in chat groups.
 
